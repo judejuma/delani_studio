@@ -37,7 +37,7 @@ https://judejuma.github.io/delani_studio
 | Enter your name  | Jude Juma |               |
 | Enter your Email Address       |judejuma@protonmail.com       |
 | Enter your message or comment  |I would love to work with you |
-| Press Submit| Pop up "Jude Juma" , we have received your message. Thank you for reaching out to us.|
+| Press Submit| Pop up "Jude Juma" , we have received your message. Thank you for trusting our services .|
 
 ## Known Bugs
 * The site is not responsive enough for some devices. 
